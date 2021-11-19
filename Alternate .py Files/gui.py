@@ -71,7 +71,8 @@ def classify(file_path):
     image = numpy.expand_dims(image, axis=0)
     image = numpy.array(image)
     print(image.shape)
-    pred = model.predict_classes([image])[0]
+    predict_classes = model.predict([image])[0] 
+    pred = np.argmax(predict_classes)
     sign = classes[pred+1]
     print(sign)
     label.configure(foreground='#011638', text=sign) 
