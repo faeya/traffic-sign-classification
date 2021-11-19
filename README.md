@@ -15,6 +15,6 @@ The dataset contains more than 50,000 images of different traffic signs. It is f
 
 ---> The code execution flow on my system can also be viewed by acessing this file uploaded named : DL_TrafficSignClassification_MP.html
 
----> In case there is an issue with the .ipnb file, I have uplaoded the code converted to .py separately in the 'Alternative Python Files' folder.
+---> In case there is an issue with the .ipnb file, I have uplaoded the code converted to .py separately in the 'Alternative .py Files' folder.
 
-*Please make sure that the dataset's .csv files and image folders are present in the same directory as the .py / .ipynb file for correct code execution.*
+*Please download the files on your local device and make sure that the dataset's .csv files and image folders are present in the same directory as the .py / .ipynb file for correct code execution.*
