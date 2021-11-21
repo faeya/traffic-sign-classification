@@ -19,4 +19,4 @@ The dataset contains more than 50,000 images of different traffic signs. It is f
 
 > The model file 'traffic_classifier.h5' is created by running the traffic_sign.py file. Execute the traffic_sign.py file on your local system to create this model from scratch if required.
 
-*Please download the files on your local device and make sure that the dataset's .csv files and image folders are present in the same directory as the .py / .ipynb file for correct code execution.*
+*Please download the files on your local device and make sure that the dataset's .csv files and image folders are present in the same directory as the .py / .ipynb file for correct code execution. Run the GUI kernal as instructed in Jupyter Notebook or run gui.py for project.*
